@@ -7,3 +7,5 @@ Prison life testing,
 Kat x,
 Prison Life Duels [Meta],
 any other games, that has third person shooting.
+
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/xqzua/FutureWare/main/FutureWare.lua"))()`
