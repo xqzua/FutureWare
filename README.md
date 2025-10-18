@@ -1,3 +1,4 @@
+# This script will not update anymore. I've lost the code to it.
 This script is paid, and only for whitelisted users who paid for it.
 This script is a Third person aim lock script, Not first person aim lock script, so don't use it in fps games.
 You can use this script in games like,
